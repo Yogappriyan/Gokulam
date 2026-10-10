@@ -1,0 +1,6 @@
+{
+  "name": "Gokulam Textile & Furniture",
+  "description": "Cinematic, scroll-driven premium hybrid retail destination for traditional South Indian clothing, Kanjivaram silk sarees, home textiles, and handcrafted furniture in Woraiyur, Trichy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
