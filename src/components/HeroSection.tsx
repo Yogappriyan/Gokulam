@@ -40,7 +40,7 @@ export const HeroSection: React.FC = () => {
         className="absolute inset-0 z-0 origin-center will-change-transform"
       >
         <img
-          src={HERO_IMAGE}
+          src={"https://i.postimg.cc/YSSyZ2tn/Luxurious-Indian-Saree-Boutique-Interior.png"}
           alt="Gokulam Kanjivaram Silk Saree in Golden Light"
           className="w-full h-full object-cover object-[center_35%] filter brightness-[0.72] contrast-[1.08]"
           referrerPolicy="no-referrer"
